@@ -6,8 +6,7 @@ To allow for the box art of favorite movies to be displayed and clicked on for m
 
 ##**How to obtain my code...**
 
-To obtain the code, you can visit my Github account WebDesigner32 and find the repo MovieTrailer.
-Once there, view the aside panel and click the Download ZIP button to obtain the code.
+Assuming you are at my MovieTrailer repo on Github, https://github.com/WebDesigner32/MovieTrailer, click the Download ZIP button on the aside panel to obtain my code.
 
 ##**Required commands to run to open the movie trailer website...**
 
