@@ -24,5 +24,5 @@ Please note that because two of the provided Udacity trailer links were dysfunct
 different trailer links that are widely popular on YouTube. To give credit where it is due and to obey 
 the Honor Code, the sources for these trailer links are:
 
-https://www.youtube.com/watch?v=cRdxXPV9GNQ
-https://www.youtube.com/watch?v=5nOF93SzX6s
+1. https://www.youtube.com/watch?v=cRdxXPV9GNQ
+2. https://www.youtube.com/watch?v=5nOF93SzX6s
