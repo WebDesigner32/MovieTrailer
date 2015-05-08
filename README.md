@@ -18,4 +18,11 @@ Assuming you are at my MovieTrailer repo on Github, https://github.com/WebDesign
 
 4. Upon running the file, the browser will display the Movie Trailer website.
 
+##**Sources**
 
+Please note that because two of the provided Udacity trailer links were dysfunctional, I provided two 
+different trailer links that are widely popular on YouTube. To give credit where it is due and to obey 
+the Honor Code, the sources for these trailer links are:
+
+https://www.youtube.com/watch?v=cRdxXPV9GNQ
+https://www.youtube.com/watch?v=5nOF93SzX6s

@@ -1,5 +1,12 @@
+'''We need fresh_tomatoes imported because fresh_tomatoes is used in the last line of code.
+Similarly, media is imported for each of the six instances.'''
+
+
 import fresh_tomatoes
 import media
+
+#We have six instances that represent six favorite movies.
+
 
 toy_story = media.Movie("Toy Story", "A story of a boy and his toys that come to life",
                         "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
@@ -19,11 +26,18 @@ ratatouille = media.Movie("Ratatouille", "A rat is a chef in Paris",
 
 midnight_in_paris = media.Movie("Midnight in Paris", "Going back in time to meet authors",
                                 "http://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
-                                "https://www.youtube.com/watch?v=atLg2wQQxvU")
+                                "https://www.youtube.com/watch?v=5nOF93SzX6s")
 
 hunger_games = media.Movie("Hunger Games", "A really real reality show",
                            "http://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
                            "https://www.youtube.com/watch?v=PbA63a7H0bo")
 
+#The six instances are grouped into a list.
+
+
 movies = [toy_story, avatar, school_of_rock, ratatouille, midnight_in_paris, hunger_games]
+
+#Creates an HTML file that displays all the favorite movies.
+
+
 fresh_tomatoes.open_movies_page(movies)
