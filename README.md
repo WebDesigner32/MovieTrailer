@@ -26,3 +26,9 @@ the Honor Code, the sources for these trailer links are:
 
 1. https://www.youtube.com/watch?v=cRdxXPV9GNQ
 2. https://www.youtube.com/watch?v=5nOF93SzX6s
+
+##**Exceeding Expectations**
+
+I made the body color orange, I changed the title to "Landon's Movie Trailers!", and I made the element with class="navbar=brand" and href="#" display "Landon's Movie Trailers" 
+at the top of the webpage.
+
