@@ -12,14 +12,9 @@ Assuming you are at my MovieTrailer repo on Github, https://github.com/WebDesign
 
 1. Install Python.
 
-2. After the project code is downloaded, keep the files in the directory. 
+2. After the project is downloaded, open the project file entertainment_center.py in IDLE and then run it.
 
-3. Open the project file entertainment_center.py in IDLE and then run it.
-
-4. Upon running the file, the browser will display the Movie Trailer site.
-
-Alternatively, one could click the Download ZIP button and then open the contents immediately. From these contents, one would select the HTML version of fresh_tomatoes and then open it. 
-The project will be displayed in the browser without a loss in functionality.
+3. Upon running the file, the browser will display the Movie Trailer site.
 
 ##**Sources**
 
