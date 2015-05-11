@@ -1,43 +1,60 @@
-'''We need fresh_tomatoes imported because fresh_tomatoes is used in the last line of code.
-Similarly, media is imported for each of the six instances.'''
+"""
+We need fresh_tomatoes imported because fresh_tomatoes is
+used in the last line of code. Similarly, media is imported
+for each of the six instances.
+"""
 
 
 import fresh_tomatoes
 import media
 
-#We have six instances that represent six favorite movies.
+# We have six instances that represent six favorite movies.
 
 
-toy_story = media.Movie("Toy Story", "A story of a boy and his toys that come to life",
-                        "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+toy_story = media.Movie("Toy Story", "A story of a boy and his \
+                         toys that come to life",
+                        "http://upload.wikimedia.org/wikipedia/" +
+                        "en/1/13/Toy_Story.jpg",
                         "https://www.youtube.com/watch?v=vwyZH85NQC4")
 
 avatar = media.Movie("Avatar", "A marine on an alien planet",
-                     "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
+                     "http://upload.wikimedia.org/wikipedia/id/b/" +
+                     "b0/Avatar-Teaser-Poster.jpg",
                      "https://www.youtube.com/watch?v=cRdxXPV9GNQ")
 
 school_of_rock = media.Movie("School of Rock", "Using rock music to learn",
-                             "http://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg",
+                             "http://upload.wikimedia.org/wikipedia/" +
+                             "en/1/11/School_of_Rock_Poster.jpg",
                              "https://www.youtube.com/watch?v=3PsUJFEBC74")
 
 ratatouille = media.Movie("Ratatouille", "A rat is a chef in Paris",
-                          "http://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
+                          "http://upload.wikimedia.org/wikipedia/en/" +
+                          "5/50/RatatouillePoster.jpg",
                           "https://www.youtube.com/watch?v=c3sBBRxDAqk")
 
-midnight_in_paris = media.Movie("Midnight in Paris", "Going back in time to meet authors",
-                                "http://upload.wikimedia.org/wikipedia/en/9/9f/Midnight_in_Paris_Poster.jpg",
+midnight_in_paris = media.Movie("Midnight in Paris", "Going back \
+                                 in time to meet authors",
+                                "http://upload.wikimedia.org/wikipedia/" +
+                                "en/9/9f/Midnight_in_Paris_Poster.jpg",
                                 "https://www.youtube.com/watch?v=5nOF93SzX6s")
 
 hunger_games = media.Movie("Hunger Games", "A really real reality show",
-                           "http://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
+                           "http://upload.wikimedia.org/wikipedia/en/4/" +
+                           "42/HungerGamesPoster.jpg",
                            "https://www.youtube.com/watch?v=PbA63a7H0bo")
 
-#The six instances are grouped into a list.
+# The six instances are grouped into a list.
 
 
-movies = [toy_story, avatar, school_of_rock, ratatouille, midnight_in_paris, hunger_games]
+movies = [toy_story, avatar, school_of_rock, ratatouille,
+          midnight_in_paris, hunger_games]
 
-#Creates an HTML file that displays all the favorite movies.
+# Creates an HTML file that displays all the favorite movies.
 
 
 fresh_tomatoes.open_movies_page(movies)
+
+# Prints the documentation for the class Movie in the Python Shell.
+
+
+print(media.Movie.__doc__)
