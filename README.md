@@ -1,5 +1,7 @@
 #**Movie Trailer Website**
 
+https://cloud.githubusercontent.com/assets/10377920/8662642/c43f8efa-2976-11e5-8625-eeebbdcf25a4.png
+
 ##**Purpose of Website**
 
 To allow for the box art of favorite movies to be displayed and clicked on for movie trailers to be viewed.
@@ -18,8 +20,8 @@ Assuming you are at my MovieTrailer repo on Github, https://github.com/WebDesign
 
 ##**Sources**
 
-Please note that because two of the provided Udacity trailer links were dysfunctional, I provided two 
-different trailer links that are widely popular on YouTube. To give credit where it is due and to obey 
+Please note that because two of the provided Udacity trailer links were dysfunctional, I provided two
+different trailer links that are widely popular on YouTube. To give credit where it is due and to obey
 the Honor Code, the sources for these trailer links are:
 
 1. https://www.youtube.com/watch?v=cRdxXPV9GNQ
@@ -27,6 +29,6 @@ the Honor Code, the sources for these trailer links are:
 
 ##**Exceeding Expectations**
 
-I made the body color orange, I changed the title to "Landon's Movie Trailers!", and I made the element with class="navbar=brand" and href="#" display "Landon's Movie Trailers" 
+I made the body color orange, I changed the title to "Landon's Movie Trailers!", and I made the element with class="navbar=brand" and href="#" display "Landon's Movie Trailers"
 at the top of the webpage.
 
