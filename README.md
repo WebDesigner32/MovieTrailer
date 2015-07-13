@@ -1,6 +1,6 @@
 #**Movie Trailer Website**
 
-https://cloud.githubusercontent.com/assets/10377920/8662642/c43f8efa-2976-11e5-8625-eeebbdcf25a4.png
+![screen shot 2015-07-13 at 3 37 25 pm](https://cloud.githubusercontent.com/assets/10377920/8662642/c43f8efa-2976-11e5-8625-eeebbdcf25a4.png)
 
 ##**Purpose of Website**
 
